@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://dbAdmin:db@dmin@cluster0.gtkek.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://dbAdmin:db@dmin@cluster0.gtkek.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtToken": "secretToken"
 }
